@@ -1,6 +1,6 @@
 // Your code here
 let dodger = document.getElementById("dodger");
-dodger.style.backgroundColor = "#111111";
+dodger.style.backgroundColor = "#FF69B4";
 dodger.style.backgroundColor = "#FF69B4";
 
 function moveDodgerLeft() {
